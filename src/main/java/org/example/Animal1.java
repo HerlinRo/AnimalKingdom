@@ -3,6 +3,6 @@ package org.example;
 public class Animal1 {
     public static void main(String[] args) {
         System.out.println("Animal 1");
-        System.out.println("Animal 1- remote");
+        System.out.println("Animal 1 -local");
     }
 }
